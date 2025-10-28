@@ -75,3 +75,4 @@ TensorFlow / Keras
 NumPy, Matplotlib, Pandas
 
 Kaggle API (pour le téléchargement du dataset)
+# A améliorer à être fiable
